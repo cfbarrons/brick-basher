@@ -1,0 +1,20 @@
+{
+  "name": "brick-basher",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "~5.9.3",
+    "vite": "^7.1.7"
+  },
+  "dependencies": {
+    "typescript-cookie": "^1.0.6"
+  },
+"scripts": {
+  "dev": "vite --host",
+  "build": "vite build",
+  "preview": "vite preview"
+}
+
+
+}
