@@ -1,8 +1,6 @@
-# brick-basher
+brick basher notes
 
-This is our version of block blaster and the next game that we plan on makeing a wordl that is our version
-
-<!-- notes are below this -->
+notes are below this
 
 and to Mr.Robert I beat you to puting gource.io on chromebook
 
