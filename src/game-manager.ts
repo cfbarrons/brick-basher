@@ -71,7 +71,7 @@ export class GameManager {
 
     this.selectedSlot?.brickSet?.draw();
   }
-
+  // note to make this not a warning
   public update(elapsedTime: number): void {
     document.body.style.cursor = "default";
 
