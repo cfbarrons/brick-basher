@@ -1,4 +1,5 @@
 This is how you get gource on chrome book
+for rss
 
 1.LS
 
